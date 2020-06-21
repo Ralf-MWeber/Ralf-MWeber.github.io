@@ -4,3 +4,4 @@ Kurze Beschreibung damit dem Anwender klar ist, was den Charakter ausmacht.
 * ordentlich
 * puenktlich
 * freundlich
+> Willkommen in der schoensten Stadt Deutschlands
